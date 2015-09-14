@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Content="1 Json序列化数组" x:Name="jsonArr" HorizontalAlignment="Left" Margin="17,23,0,0" VerticalAlignment="Top" Width="142" Click="jsonArr_Click"  />
     </Grid>
 </Window>

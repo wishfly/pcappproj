@@ -1,0 +1,13 @@
+D:\GitProject\BasicProject\BasicProject\bin\Debug\BasicProject.exe
+D:\GitProject\BasicProject\BasicProject\bin\Debug\BasicProject.pdb
+D:\GitProject\BasicProject\BasicProject\bin\Debug\Newtonsoft.Json.dll
+D:\GitProject\BasicProject\BasicProject\obj\Debug\Json.csprojResolveAssemblyReference.cache
+D:\GitProject\BasicProject\BasicProject\obj\Debug\App.g.cs
+D:\GitProject\BasicProject\BasicProject\obj\Debug\BasicProject_MarkupCompile.cache
+D:\GitProject\BasicProject\BasicProject\obj\Debug\BasicProject.g.resources
+D:\GitProject\BasicProject\BasicProject\obj\Debug\BasicProject.Properties.Resources.resources
+D:\GitProject\BasicProject\BasicProject\obj\Debug\Json.csproj.GenerateResource.Cache
+D:\GitProject\BasicProject\BasicProject\obj\Debug\BasicProject.exe
+D:\GitProject\BasicProject\BasicProject\obj\Debug\BasicProject.pdb
+D:\GitProject\BasicProject\BasicProject\obj\Debug\MainWindow.baml
+D:\GitProject\BasicProject\BasicProject\obj\Debug\MainWindow.g.cs
